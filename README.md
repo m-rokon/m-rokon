@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ## 🔥 GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=m-rokon&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=m-rokon&theme=tokyonight-duo&currStreakNum=0FFFC2&background=45%2C093150%2C395F48&border=8D8D8D&stroke=38C5EB)](https://git.io/streak-stats)
 
 <!-- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m-rokon&theme=tokyonight) -->
 
