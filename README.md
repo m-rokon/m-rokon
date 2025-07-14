@@ -20,17 +20,19 @@ Here are some ideas to get you started:
 💬 Ask me about web development, Elementor, CSS, and front‑end architecture  
 😄 Pronouns: He/Him  
 📫 Reach me on [LinkedIn](https://linkedin.com/in/mrokon) • [Upwork](https://www.upwork.com/freelancers/mrokon) • [rokon.dev](https://rokon.dev)  
-⚡ Fun fact: I never quit 😄
+⚡ Fun fact: I never quit 😄  
+
 ---
 
 ## 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white&style=flat-square)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white&style=flat-square)
+![Liquid](https://img.shields.io/badge/Liquid-FF4500?logo=liquid&logoColor=white&style=flat-square)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=flat-square)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?logo=elementor&logoColor=white&style=flat-square)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
 
 ---
 
